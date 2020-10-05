@@ -5,6 +5,9 @@ Press "Option + ⌘ + J"on Mac and "Shift + CTRL + J" on Windows/Linux to open t
 
 This Code is original!
 
+## Note:
+This only works on devices that have developer tools support. For example, mac, laptop, PC
+
 ```
 Happy Coding!
 ```
